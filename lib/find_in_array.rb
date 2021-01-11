@@ -4,4 +4,4 @@ end
 
 scale = [2,3,4,5]
 
-find_element_index(scale, 3)
+puts find_element_index(scale, 3)
